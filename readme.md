@@ -1,3 +1,6 @@
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/87373dbe-5be0-4ce6-b490-dfcdc937bbfd" />
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/87fd930c-b0cd-4378-af1b-fdb4ca391825" />
 # 🍽️ Assistant Culinaire & Calories IA
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
