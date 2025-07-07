@@ -46,7 +46,7 @@ Interface Moderne
 ### Étape 1: Cloner le projet
 
 ```bash
-git clone https://github.com/username/assistant-culinaire-ia.git
+git clone https://github.com/nourhene196/assistant-culinaire-ia.git
 cd assistant-culinaire-ia
 ```
 
